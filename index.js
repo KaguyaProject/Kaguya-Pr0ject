@@ -1,3 +1,16 @@
+/**
+ * Author: Thiệu Trung Kiên
+ * Facebook: https://www.facebook.com/ThieuTrungKi3n
+ * Github: https://github.com/ttkienn
+ * Please do not edit the author's name, but unauthorized changes may cause the code to fail!
+ * 
+ * English: This code is the project's core, altering it jeopardizes stability and continuous, free development.
+ * 
+ * Vietnamese: Mã nguồn này là cốt lõi của dự án, sửa đổi đe dọa tính ổn định và sự phát triển miễn phí.
+ * 
+ * Thank you for choosing and using our project!
+ */
+
 import login from "@trunqkj3n/kaguya";
 import fs from "fs-extra";
 import { listen } from "./listen/listen.js";
